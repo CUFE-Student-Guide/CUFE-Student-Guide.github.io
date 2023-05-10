@@ -124,17 +124,50 @@ If you are in waiting list, then there you will be accepted if you are in the fi
 
 WIP
 
-# Payment      
+# Tuition Fees
 
-To pay, you can use Fawry outlet on-campus near the Cafeteria, and it is the best option because you only pay 2 EGP as transfer fees, otherwise paying via Super Fawry service will incur higher fees.  
+## How to pay
+To pay, you can use Fawry outlet on-campus near the Cafeteria, and it is the best option because you only pay 2 EGP as transfer fees, otherwise paying via Super Fawry service will incur higher fees. Your payment code for Fawry is noted on your ID card and on your [Profile](#profile), it is 14 numbers long.
 
-To calculate your fees, use this equation:  
-
-(Credit hour price \* credit hours registered  + administration fees) \* 1.1 + any extra fees.  
-
-The credit hour price and administration fees differ from class to class, so you need to ask your class/student affairs and note it down. Rarely does it differ for the same class through the years.  
-
-You can ask the Credit Student Affairs for your total as well, normally they have this info available after the Drop only phase, which means the info is available from week 3 to week 5. Your payment code for Fawry is noted on your ID card and on your [Profile](#profile), it is 14 numbers long.  
+You can ask the Credit Student Affairs for your total as well, normally they have this info available after the Drop only phase, which means the info is available from week 3 to week 5. 
+## Duration
+### Fall or Spring
+Week 3 until week 5.
+### Summer
+Week 2 until week 4.
+## Late fines
+### Fall or Spring
+First two weeks after deadline: 10% extra on total fees (total fees \* 1.1).
+After two weeks and until the end of the semster: 20% extra on total fees (total fees \* 1.2).
+### Summer
+First week after deadline: 10% extra on total fees (total fees \* 1.1).
+After one week and until the end of the semster: 20% extra on total fees (total fees \* 1.2).
+You only pay only one of the two fines based on when you pay, they are not added together.
+## General Formula
+### Fall or Spring
+(Price of credit hours \* amount of credit hours + administrative fees) \* 1.1
++ Mainstream fees (extra, paid once annually, typically in Spring)
+### Summer
+(Price of credit hours \* 1.25 \* amount of credit hours + administrative fees) \* 1.1
+IT1 and IT2:
+No administrative or taxes (10% = 1.1)
+IT1 = 1 credit hour, IT2 = 2 credit hours.
+Price of credit hours \* amount of credit hours.
+### Credit hour price
+1 credit hour (currently for 27) = 1800 EGP.
+Each new class increases 14% for price of credit (i.e. class 26 1 credit = ~1580 EGP -> *1.14 = 1800 EGP for class 27)
+Do note that it might fluctate so don't take it as a hard rule, it is more of a guideline, so you need to ask your class/student affairs and note it down. Rarely does it differ for the same class through the years.
+## Discounts
+### Staff parents
+If any of your parents are a member of the educational staff (professors or TAs) in any faculty affliated with **Cairo University**, you can get a 30% discount, but you need to get an official document from the University to prove that.
+### cGPA
+If your cGPA (cumultative GPA not semster GPA) is:
+* cGPA > 3.6: 50% off.
+* cGPA < 3.6 and cGPA > 3.5: 25% off.
+## Installments
+Available on demand at CUFE CHS Student Affairs.
+You can pay it over 2 installments, 60% and 40% respectively.
+The first installment must be paid in the same timeframe as the usual tuition fees
 
 # Withdrawal    
 
