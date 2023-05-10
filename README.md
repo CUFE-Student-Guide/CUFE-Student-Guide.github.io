@@ -2,7 +2,7 @@ Guide to CUFE CHS life:  
 
 Hello and welcome to CUFE CHS, it might be heaven (uh not really for me, but who knows), it might be hell, it might be just in-between like everything else.
 
-[Website version](https://CUFE-Student-Guide.github.io)
+[Website version](https://CUFE-Student-Guide.github.io)<br>
 [Repository version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/README.md)
 
 It is ok to feel a bit lost at first, hopefully this can help you.  
