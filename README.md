@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/CUFE%20CHS.png?raw=true" data-canonical-src="https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/CUFE%20CHS.png?raw=true" width="250" height="250" />
+</p>
 Guide to CUFE CHS life:  
 
 Hello and welcome to CUFE CHS, it might be heaven (uh not really for me, but who knows), it might be hell, it might be just in-between like everything else.
