@@ -327,4 +327,4 @@ Revised by: Ahmed Eldeeb, Representative of EEE, General Representative, Student
 
 Attendance tool: [Marawn Mostafa](https://www.linkedin.com/in/marwan8/) & [Khaled Mamdouh](https://www.linkedin.com/in/khalidmamdou7/), Representatives of CCE-C, Class of 2024.  
 
-All 2023 Representatives who helped my class and always made sure we were kept up to date, love you guys! &#10084;
+All 2023 Representatives who helped my class and always made sure we were always kept up to date, love you guys! &#10084;
