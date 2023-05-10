@@ -147,7 +147,7 @@ You only pay only one of the two fines based on when you pay, they are not added
 ## General Formula
 ### Fall or Spring
 (Price of credit hours \* amount of credit hours + administrative fees) \* 1.1
-+ Mainstream fees (extra, paid once annually, typically in Spring)
+\+ Mainstream fees (extra, paid once annually, typically in Spring)
 ### Summer
 (Price of credit hours \* 1.25 \* amount of credit hours + administrative fees) \* 1.1
 IT1 and IT2:
