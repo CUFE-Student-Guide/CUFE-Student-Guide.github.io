@@ -306,7 +306,7 @@ Used to register IT for your current semster or for summer semster. Revise [Indu
 
 #### Get An E-mail Account
 
-Gives you a Google Workspace email, and allows you to select the email's username before creating it. Choose a professional format like `firstname.lastname`. For a list of benefits, revise [Faculy Email section](# Faculty Email (@eng-st.cu.edu.eg)).
+Gives you a Google Workspace email, and allows you to select the email's username before creating it. Choose a professional format like `firstname.lastname`. For a list of benefits, revise [Faculty Email section](# Faculty Email (@eng-st.cu.edu.eg)).
 
 #### Special Registration Request
 
