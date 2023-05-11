@@ -337,4 +337,4 @@ All 2023 Representatives who helped my class and always made sure we were always
 
 Author: Mostafa Abdelberr, Representative of CCE-C, Class of 2023.  
 
-<img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg" href=https://github.com/mostafa-abdelbrr/>
+<img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg" href="https://github.com/mostafa-abdelbrr"/>
