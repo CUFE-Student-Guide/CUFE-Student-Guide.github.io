@@ -5,8 +5,8 @@ Guide to CUFE CHS life:  
 
 Hello and welcome to CUFE CHS, it might be heaven (uh not really for me, but who knows), it might be hell, it might be just in-between like everything else.
 
-[Website version](https://CUFE-Student-Guide.github.io)<br>
-[Repository version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/README.md)
+[Website version](https://CUFE-Student-Guide.github.io)  
+[Repository version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/README.md)  
 
 It is ok to feel a bit lost at first, hopefully this can help you.  
 
@@ -72,13 +72,17 @@ Lectures, tutorials, assignments, projects, deadlines, representatives, announce
 
 # Attendance    
 
-You must not be absent for more than **25% of lectures and tutorials, measured by their length in hours (not credit hours)**, otherwise you will be deprived/disallowed from sitting the final exam and get a FW (forced withdraw) in this course. [The attendance tool](https://chs-absence.vercel.app/) can help you determine how many times you can be absence. If you were absent for a medical reason and got deprived, you can present your excuse with official papers to the professor, and ask the professor if they will agree to allow you to attend the final exam. Do note this might not work with all professors, the professor normally has the right to refuse to deprive you, but it is up to the professor.  
+You must not be absent for more than **25% of lectures and tutorials, measured by their length in hours (not credit hours)**, otherwise you will be deprived/disallowed from sitting the final exam and get a FW (forced withdraw) in this course.  
+[The attendance tool](https://chs-absence.vercel.app/) can help you determine how many times you can be absence.  
+If you were absent for a medical reason and got deprived, you can present your excuse with official papers to the professor, and ask the professor if they will agree to allow you to attend the final exam.  
+Do note this might not work with all professors, the professor normally has the right to refuse to deprive you, but it is up to the professor. Also you can do that in case you were mistakenly considered as absent, which happens rarely.
 
-**In no way can you remove the absence records for any reason, excuse or no excuse. Any official excuse (from the Cairo University Students' Hospital) allows you to make up for any lost graded assignment or quiz, but won't remove the absence at all.**  
+**In no way can you remove the absence records for any reason, excuse or no excuse, even if it was by mistake. Any official excuse (from the Cairo University Students' Hospital) allows you to make up for any lost graded assignment or quiz, but won't remove the absence at all.**
+The above note is normally true with the exception that very rarely, the professor might sympathize with your case and ask the administration for permission to edit the absence records.
 
 # Lectures  
 
-The one who gives it is called a doctor or professor, duh, but the important part is we have a wide variety of them, there are some with nice lectures that you can either enjoy or just don't feel like time has forzen, while there is the opposite, and there is the in-between.  
+The one who gives it is called a doctor or professor, duh, but the important part is we have a wide variety of them, there are some with nice lectures that you can either enjoy or just don't feel like time has frozen, while there is the opposite, and there is the in-between.  
 
 First lecture is always the less strict one, you will know their rules, here are some of them that some of them enforce and the others don't:  
 
@@ -122,7 +126,7 @@ When needing help, please reach out to your representative on the class **group*
 
 Try to follow your program map as closely as possible, and try to be 5 minutes early. **Always check your timetable after registration.**  
 
-If you are in waiting list, then there you will be accepted if you are in the first 10, otherwise either ask if the professor accepts everyone or you need to register another course instead. If the course you registered doesn't appear in your table, then the slot you tried to register was filled. You can use "Registration Status Report" icon to check the status of any available course. You can also submit a special registration request, details in [Special Registration section](#Special Registration)
+If you are in waiting list, then there you will be accepted if you are in the first 10, otherwise either ask if the professor accepts everyone or you need to register another course instead. If the course you registered doesn't appear in your table, then the slot you tried to register was filled. You can use "Registration Status Report" icon to check the status of any available course. You can also submit a special registration request, details in [Special Registration section](#Special Registration).  
 
 # Special Registration
 
@@ -131,7 +135,7 @@ WIP
 # Tuition Fees
 
 ## How to pay
-To pay, you can use Fawry outlet on-campus near the Cafeteria, and it is the best option because you only pay 2 EGP as transfer fees, otherwise paying via Super Fawry service will incur higher fees. Your payment code for Fawry is noted on your ID card and on your [Profile](#profile), it is 14 numbers long.
+To pay, you can use Fawry outlet on-campus near the Cafeteria, and it is the best option because you only pay 2 EGP as transfer fees, otherwise paying via Super Fawry service will incur higher fees. Your payment code for Fawry is noted on your ID card and on your [Profile](#profile), it is 14 numbers long.  
 
 You can ask the Credit Student Affairs for your total as well, normally they have this info available after the Drop only phase, which means the info is available from week 3 to week 5. 
 ## Duration
@@ -141,37 +145,38 @@ Week 3 until week 5.
 Week 2 until week 4.
 ## Late fines
 ### Fall or Spring
-First two weeks after deadline: 10% extra on total fees (total fees \* 1.1).
-After two weeks and until the end of the semster: 20% extra on total fees (total fees \* 1.2).
+First two weeks after deadline: 10% extra on total fees (total fees \* 1.1).  
+After two weeks and until the end of the semster: 20% extra on total fees (total fees \* 1.2).  
 ### Summer
-First week after deadline: 10% extra on total fees (total fees \* 1.1).
-After one week and until the end of the semster: 20% extra on total fees (total fees \* 1.2).
-You only pay only one of the two fines based on when you pay, they are not added together.
+First week after deadline: 10% extra on total fees (total fees \* 1.1).  
+After one week and until the end of the semster: 20% extra on total fees (total fees \* 1.2).  
+You only pay only one of the two fines based on when you pay, they are not added together.  
 ## General Formula
 ### Fall or Spring
-(Price of credit hours \* amount of credit hours + administrative fees) \* 1.1
-\+ Mainstream fees (extra, paid once annually, typically in Spring)
+$$(Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
+Mainstream fees are extra and added to the **total fees**, paid once annually, typically in Spring.  
 ### Summer
-(Price of credit hours \* 1.25 \* amount of credit hours + administrative fees) \* 1.1
-IT1 and IT2:
-No administrative or taxes (10% = 1.1)
-IT1 = 1 credit hour, IT2 = 2 credit hours.
-Price of credit hours \* amount of credit hours.
+$$((Price\ of\ 1\ credit\ hour\times1.25)\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
+## IT1 and IT2:  
+No administrative or taxes (10% = 1.1).  
+IT1 = 1 credit hour.  
+IT2 = 2 credit hours.  
+$$Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours$$
 ### Credit hour price
-1 credit hour (currently for 27) = 1800 EGP.
-Each new class increases 14% for price of credit (i.e. class 26 1 credit = ~1580 EGP -> *1.14 = 1800 EGP for class 27)
+1 credit hour (currently for 27) = 1800 EGP.  
+Each new class increases 14% of price of credit hour (i.e. class 26 1 credit = ~1580 EGP -> \*1.14 = 1800 EGP for class 27).  
 Do note that it might fluctate so don't take it as a hard rule, it is more of a guideline, so you need to ask your class/student affairs and note it down. Rarely does it differ for the same class through the years.
 ## Discounts
 ### Staff parents
-If any of your parents are a member of the educational staff (professors or TAs) in any faculty affliated with **Cairo University**, you can get a 30% discount, but you need to get an official document from the University to prove that.
+If any of your parents are a member of the educational staff (professors or TAs) in any faculty affliated with **Cairo University**, you can get a 30% discount, but you need to get an official document from the University to prove that.  
 ### cGPA
 If your cGPA (cumultative GPA not semster GPA) is:
-* cGPA > 3.6: 50% off.
-* cGPA < 3.6 and cGPA > 3.5: 25% off.
+* cGPA > 3.6: 50% off.  
+* cGPA < 3.6 and cGPA > 3.5: 25% off.  
 ## Installments
-Available on demand at CUFE CHS Student Affairs.
-You can pay it over 2 installments, 60% and 40% respectively.
-The first installment must be paid in the same timeframe as the usual tuition fees
+Available on demand at CUFE CHS Student Affairs.  
+You can pay it over 2 installments, 60% and 40% respectively.  
+The first installment must be paid in the same timeframe as the usual tuition fees.  
 
 # Withdrawal    
 
@@ -179,7 +184,7 @@ You are allowed to withdraw from **only 2 courses per semster**.  
 
 # Retaking a course    
 
-You are allowed to retake a course **5 times only in your whole academic study**. It is advised to do it only for courses where you got an F, or if you got a low score which when improved affects the cGPA greatly. Also, you can't retake a course after 2 main semsters have passed since you originally took it.  
+You are allowed to retake a course **5 times only in your whole academic study**. It is advised to do it only for courses where you got a C or below, and it is a must if you get an F. Also, you can't retake a course after 2 main semsters have passed since you originally took it.  
 
 **If you got a lower score, your old score will be replaced with the lower score. If you failed, then you will need to retake the course again.**  
 
@@ -324,10 +329,12 @@ New icon, rarely used. Good idea to check it in the first week, and if the profe
 
 # Credits  
 
-Author: Mostafa Abdelberr, Representative of CCE-C, Class of 2023.  
-
-Revised by: Ahmed Eldeeb, Representative of EEE, General Representative, Students Union (SU) Vice President, SU Advisor, Member of CU Students Union, and IEEE Advisor, Class of 2023.  
+Revised by: Ahmed Eldeeb, Founder of Current CHS Representatives System, Representative of EEE, General Representative, Students Union (SU) Vice President, SU Advisor, Member of CU Students Union, and IEEE Advisor, Class of 2023.  
 
 Attendance tool: [Marawn Mostafa](https://www.linkedin.com/in/marwan8/) & [Khaled Mamdouh](https://www.linkedin.com/in/khalidmamdou7/), Representatives of CCE-C, Class of 2024.  
 
 All 2023 Representatives who helped my class and always made sure we were always kept up to date, love you guys! &#10084;
+
+Author: Mostafa Abdelberr, Representative of CCE-C, Class of 2023.  
+
+<img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg" href=https://github.com/mostafa-abdelbrr/>
