@@ -172,7 +172,8 @@ If any of your parents are a member of the educational staff (professors or TAs)
 ### cGPA
 If your cGPA (cumultative GPA not semster GPA) is:
 * cGPA > 3.6: 50% off.  
-* cGPA < 3.6 and cGPA > 3.5: 25% off.  
+* cGPA < 3.6 and cGPA > 3.5: 25% off.
+
 ## Installments
 Available on demand at CUFE CHS Student Affairs.  
 You can pay it over 2 installments, 60% and 40% respectively.  
