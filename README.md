@@ -116,7 +116,7 @@ A lot of courses include a project, sometimes it is 5-10% of your coursework gra
 
 Those are students that volunteered to coordinate with the professors if the need arises, and notifies the students with any news the professor wants announced. They also handle changing any deadline or quiz date **if needed**, but do note that quiz date changes require an **unanimous** acceptance, if any students rejects it, then the proposal is automatically rejected.  
 
-In freshman year, you will be typically divided into groups with a fixed timetable, hence each group should have a representative under the supervision of an older class. Typically, each group has its own WhatsApp group, plus a "General Newsfeed" group on which any important news that is relevant to the whole class is send, hence please never ever mute that one.  
+In freshman year, you will be typically divided into groups with a fixed timetable, hence each group should have a representative under the supervision of an older class. Typically, each group has its own WhatsApp group, plus a "General Newsfeed" group on which any important news that is relevant to the whole class is sent, hence please never ever mute that one.  
 
 After your freshman year, you should be sorted into, hopefully, your preferred program. Now each program should have its own WhatsApp group, and a new set of representatives. Some programs have multiple representatives, some have just one. The representatives get help from older representatives until they get used to it, so if you want to volunteer but don't know what exactly to do, don't worry. Just be prepared because it is similar to a management position: you need to be prepared for handling stuff frequently.  
 
