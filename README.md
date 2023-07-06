@@ -126,11 +126,12 @@ When needing help, please reach out to your representative on the class **group*
 
 Try to follow your program map as closely as possible, and try to be 5 minutes early. **Always check your timetable after registration.**  
 
-If you are in waiting list, then there you will be accepted if you are in the first 10, otherwise either ask if the professor accepts everyone or you need to register another course instead. If the course you registered doesn't appear in your table, then the slot you tried to register was filled. You can use "Registration Status Report" icon to check the status of any available course. You can also submit a special registration request, details in [Special Registration section](#Special Registration).  
+If you are in waiting list, then there you will be accepted if you are in the first 10, otherwise either ask if the professor accepts everyone or you need to register another course instead. If the course you registered doesn't appear in your table, then the slot you tried to register was filled, and you need to register any other course. You can use "Registration Status Report" icon to check the status of any available course. You can also submit a special registration request, details in [Special Registration section](#Special Registration), but I repeat you need to register another course in case your sepcial request gets denied.  
 
 # Special Registration
 
-WIP
+Via the Special Registration icon on the SIS portal, you submit special requests to enroll in courses that got filled in the normal registration stage, and you got a small chance to be accepted. Typically, there are a few slots saved for special registration.
+You will need to fill in what course you want, its slot, and type a comment about why you want it (if you got anything to say). Typically they try to give priority to people who have an urgent reason, like graduating, otherwise it is on a first come first served basis. Another thing to boost your chances is to specify a course you want to drop if they accept your special request. You can add multiple courses to drop in one request if needed, just explain in details what you want and your trade offer in the comment field, and specify the course names and codes. 
 
 # Tuition Fees
 
