@@ -68,7 +68,7 @@ I am too lazy to describe them, remind me tomorrow.  
 
 Now, jokes are over. Time to get into the details.  
 
-Lectures, tutorials, assignments, projects, deadlines, representatives, announcements, and probably some other things I forgot. You get used to it in time, but the sooner you understand your new life, the better.  
+Lectures, tutorials, assignments, projects, deadlines, representatives, announcements, and probably some other things I forgot. You get used to it over time, but the sooner you understand your new life, the better.  
 
 # Attendance    
 
