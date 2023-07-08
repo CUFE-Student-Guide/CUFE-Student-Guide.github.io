@@ -154,15 +154,15 @@ After one week and until the end of the semster: 20% extra on total fees (total 
 You only pay only one of the two fines based on when you pay, they are not added together.  
 ## General Formula
 ### Fall or Spring
-$$(Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
+\$$(Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours+administrative\ fees)\times1.1\$$
 Mainstream fees are extra and added to the **total fees**, paid once annually, typically in Spring.  
 ### Summer
-$$((Price\ of\ 1\ credit\ hour\times1.25)\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
+\$$((Price\ of\ 1\ credit\ hour\times1.25)\times amount\ of\ credit\ hours+administrative\ fees)\times1.1\$$
 ## IT1 and IT2:  
 No administrative or taxes (10% = 1.1).  
 IT1 = 1 credit hour.  
 IT2 = 2 credit hours.  
-$$Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours$$
+\$$Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours\$$
 ### Credit hour price
 1 credit hour (currently for 27) = 1800 EGP.  
 Each new class increases 14% of price of credit hour (i.e. class 26 1 credit = ~1580 EGP -> \*1.14 = 1800 EGP for class 27).  
@@ -231,7 +231,7 @@ WIP  
     - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند من مكتب التجنيد in the governorate listed in your National ID.
     - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
 - For the Engineer's Union, check the required documents [here](eea.org.eg/PageDetails.aspx?ID=137). Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. Formula for reference:
-$$1495 + (70\times(Current\ Year - 2023))$$
+\$$1495 + (70\times(Current\ Year - 2023))\$$
 - For Mandatory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/).
 - The temporary Graduation Certificate is ready normally a month after graduation.
 - You will need to go receive your file, a بيان نجاح, and a temporary Graduation Certificate in whichever language you want.
