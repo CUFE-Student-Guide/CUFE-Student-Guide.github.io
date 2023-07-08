@@ -204,6 +204,43 @@ Mandatory for all male students.  
 
 WIP  
 
+# Graduation:
+- You should take your إخلاء طرف من التربية العسكرية from the Military Training office in the Student Hostel (المدينة الجامعية) at any time during your graduation semester, you only a photocopy from both your faculty ID card and National ID, and print the form from [here](https://miltraining.cu.edu.eg/Student/StudProfile).
+- Around the end of the semester (when your representative announces it first):
+    - You will need to pay via the [CKES](http://ckes.cu.edu.eg/foe.aspx) (directly or via Fawry), required service is: طلب دخول امتحان نهائي 104.
+    - Take some forms from the student affairs where you will sign that you received them, so nobody else can do it for you. The forms are:
+        - CHSF-024.
+        - استمارة طلب دخول امتحان نهائي 104.
+        - Exit Survey.
+    - Fill these forms in the appropriate fields, some are to be filled by the student.
+    - Go to your relevant program coordinator's office or secretary to leave your CHSF-024 form, and you will recieve it later, ask whoever you leave your form with when.
+    - For the English name field in استمارة طلب دخول امتحان نهائي 104, take care to copy it from your passport if any, if you don't have one then make sure to fill your name in the passport with the same name as the one you type down. It is needed to prove that the Graduation Certificate beglongs to you.
+    - After fulfilling the previous steps, submit the following to the Student Affairs:
+        - 4x6 personal photo with a **white background**.
+        - CHSF-024.
+        - Receipt for طلب دخول امتحان نهائي 104.
+        - استمارة طلب دخول امتحان نهائي 104.
+        - Exit Survey.
+        - إخلاء طرف من التربية العسكرية.
+# Post Graduation:
+- After graduating, you need to take 3 things from the faculty:
+    - Your file.
+    - Temporary Graduation Certificate (in Arabic or English), required by employers.
+    - Final Graduation Certificate, honorary and is not submitted anywhere.
+- Notes for Military Training: 
+    - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند من مكتب التجنيد in the governorate listed in your National ID.
+    - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
+- For the Engineer's Union, check the required documents [here](eea.org.eg/PageDetails.aspx?ID=137). Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. Formula for reference:
+$$1495 + (70\times(Current\ Year - 2023))$$
+- For Mandatory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/).
+- The temporary Graduation Certificate is ready normally a month after graduation.
+- You will need to go receive your file, a بيان نجاح, and a temporary Graduation Certificate in whichever language you want.
+- Required fees from [CKES](http://ckes.cu.edu.eg/foe.aspx) (choose شئون طلاب):
+  - WIP.
+  - رسم سحب ملف - خريج (الساعات المعتمدة).
+  - طلب الأفادة (الساعات المعتمدة).
+  - Temporary Graduation Certificate, already paid for one with your normal tuition fees. Any new copy will require paying again.
+
 # Evaluation    
 
 Mandatory and occurs in the last few weeks of the semster, if not done then you cannot access your account until the next semster, and won't be able to register your Spring courses in the first phase (in Fall semesters only).  
