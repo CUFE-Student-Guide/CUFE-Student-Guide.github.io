@@ -70,6 +70,9 @@ Now, jokes are over. Time to get into the details.  
 
 Lectures, tutorials, assignments, projects, deadlines, representatives, announcements, and probably some other things I forgot. You get used to it over time, but the sooner you understand your new life, the better.  
 
+# Bylaws
+The credit bylaws list all the different rules and regulations that apply to your class, as well as GPA score points and their equivalent grades (percentage or witten grade). Please give it a read at least once in your academic study. Some of the rules are included in this guide, but the grades guide needs to be checked in the bylaws to make sure it is up to date.
+
 # Attendance    
 
 You must not be absent for more than **25% of lectures and tutorials, measured by their length in hours (not credit hours)**, otherwise you will be deprived/disallowed from sitting the final exam and get a FW (forced withdraw) in this course.  
@@ -224,6 +227,7 @@ WIP  
         - إخلاء طرف من التربية العسكرية.
   
 # Post Graduation:
+- To know your overall equivalent grade, check the [bylaws](http://eng.cu.edu.eg/en/credit-hour-system/credit-administration-services/) to know how to convert your cGPA to its equivalent grade.
 - After graduating, you need to take 3 things from the faculty:
     - Your file.
     - Temporary Graduation Certificate (in Arabic or English), required by employers.
