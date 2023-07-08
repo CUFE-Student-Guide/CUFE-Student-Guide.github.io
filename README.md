@@ -229,7 +229,7 @@ WIP  
     - Temporary Graduation Certificate (in Arabic or English), required by employers.
     - Final Graduation Certificate, honorary and is not submitted anywhere.
 - Notes for Military Training: 
-    - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند من مكتب التجنيد in the governorate listed in your National ID.
+    - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند from مكتب التجنيد in the governorate listed in your National ID.
     - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
 - For the Engineer's Union, check the required documents [here](eea.org.eg/PageDetails.aspx?ID=137). Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. Formula for reference:
 \$$1495 + (70\times(Current\ Year - 2023))\$$
