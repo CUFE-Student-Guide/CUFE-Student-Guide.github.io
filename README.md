@@ -222,6 +222,7 @@ WIP  
         - استمارة طلب دخول امتحان نهائي 104.
         - Exit Survey.
         - إخلاء طرف من التربية العسكرية.
+  
 # Post Graduation:
 - After graduating, you need to take 3 things from the faculty:
     - Your file.
