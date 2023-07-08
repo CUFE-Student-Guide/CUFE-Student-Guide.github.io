@@ -369,12 +369,12 @@ New icon, rarely used. Good idea to check it in the first week, and if the profe
 
 # Credits  
 
-Revised by: Ahmed Eldeeb, Founder of Current CHS Representatives System, Representative of EEE, General Representative, Students Union (SU) Vice President, SU Advisor, Member of CU Students Union, and IEEE Advisor, Class of 2023.  
+Revised by: [Ahmed Eldeeb](https://www.linkedin.com/in/ahmedaeldeeb/), Founder of Current CHS Representatives System, Representative of EEE, General Representative, Students Union (SU) Vice President, SU Advisor, Member of CU Students Union, and IEEE Advisor, Class of 2023.  
 
 Attendance tool: [Marawn Mostafa](https://www.linkedin.com/in/marwan8/) & [Khaled Mamdouh](https://www.linkedin.com/in/khalidmamdou7/), Representatives of CCE-C, Class of 2024.  
 
 All 2023 Representatives who helped my class and always made sure we were always kept up to date, love you guys! &#10084;
 
-Author: Mostafa Abdelberr, Representative of CCE-C, Class of 2023.  
+Author: [Mostafa Abdelberr](https://github.com/mostafa-abdelbrr), Representative of CCE-C, Class of 2023.  
 
 <a href="https://github.com/mostafa-abdelbrr"><img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg"/></a>
