@@ -154,7 +154,7 @@ After one week and until the end of the semster: 20% extra on total fees (total 
 You only pay only one of the two fines based on when you pay, they are not added together.  
 ## General Formula
 ### Fall or Spring
-$$(Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
+\$$(Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours+administrative\ fees)\times1.1\$$
 Mainstream fees are extra and added to the **total fees**, paid once annually, typically in Spring.  
 ### Summer
 $$((Price\ of\ 1\ credit\ hour\times1.25)\times amount\ of\ credit\ hours+administrative\ fees)\times1.1$$
