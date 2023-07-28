@@ -162,10 +162,10 @@ Mainstream fees are extra and added to the **total fees**, paid once annually, t
 ### Summer
 \$$((Price\ of\ 1\ credit\ hour\times1.25)\times amount\ of\ credit\ hours+administrative\ fees)\times1.1\$$
 ## IT1 and IT2:  
-No administrative or taxes (10% = 1.1).  
+No administrative fees.  
 IT1 = 1 credit hour.  
 IT2 = 2 credit hours.  
-\$$Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours\$$
+\$$Price\ of\ 1\ credit\ hour\times amount\ of\ credit\ hours\times1.1\$$
 ### Credit hour price
 1 credit hour (currently for 27) = 1800 EGP.  
 Each new class increases 14% of price of credit hour (i.e. class 26 1 credit = ~1580 EGP -> \*1.14 = 1800 EGP for class 27).  
