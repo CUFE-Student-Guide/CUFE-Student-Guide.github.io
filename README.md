@@ -199,13 +199,31 @@ A request to re-calculate your final exam grades only. **No rechecking/regrading
 
 # Industrial Training (IT)
 
-WIP  
+**Always check the IT Manual before looking for any internship. Your class's drive should have an up-to-date version.**
+As of the date of writing (Jan 2024), minimum length of training is:
+- IT-1: 3 work weeks equivalent to 90 hours.
+- IT-2: 6 work weeks equivalent to 180 hours.
+Work week means Sunday to Thursday, 8 hours work day.
+You are supposed to find any internship on LinkedIn, Wuzzuf, or any possible one through personal connections. Sometimes representatives might post potential internships in your class groups, but not always.
+You might also find some on the Faculty's site [here](https://eng.cu.edu.eg/ar/credit-hour-system/credit-notices-for-students/).
+Upon completion of your internship, you are supposed to get a certificate that has:
+- Company name and logo.
+- Your name.
+- Internship start and end dates. Has to be the same as the details submitted in the [IT module on the SIS portal](#it-registration).
+- Total hours of internship.
+- Official signature such as your supervisor/senior or someone who ranks higher than them.
+- Official company stamp.
+If any of the aforementioned details are missing, IT administration will ask you to re-submit the certificate after amending it.
+If you cannot submit the certificate of completion before the deadline requested by the administration, you can get a "استمارة تدريب" from the Student Affairs which has to be stamped from Mainstream's Student Affairs (back of the main building that is in front of the obelisk), then fill the required details. Do note that the certificate will be required a few days before the IT exam and no alternative is accepted then.
+The IT Exam is commonly as follows:
+- IT-1: Document that details your training process, hardcopy, with simple discussion with your program's IT Coordinator.
+- IT-2: Document that details your training process, hardcopy, and a PowerPoint presentation, softcopy or no need to submit.
+The representatives should keep you updated with the required deadlines, but the IT exam is usually at the end of the semester. As for the training document specifications, the length and required sections vary from program to program.
+# Military Training  
 
-# Militiary Training  
-
-Mandatory for all male students.  
-
-WIP  
+Pass or fail course and mandatory for all male students.
+Sign up for an account [here](https://miltraining.cu.edu.eg/) then apply for any available slot, typically open in winter or summer holidays, better check before the semester ends by a week or so, and check daily.
+It consists of physical training and lectures. Upon completion, there is a written exam. Your class drive *might* have a question bank to help you study.
 
 # Graduation:
 - You should take your إخلاء طرف من التربية العسكرية from the Military Training office in the Student Hostel (المدينة الجامعية) at any time during your graduation semester, you only a photocopy from both your faculty ID card and National ID, and print the form from [here](https://miltraining.cu.edu.eg/Student/StudProfile).
@@ -230,22 +248,35 @@ WIP  
 - To know your overall equivalent grade, check the [bylaws](http://eng.cu.edu.eg/en/credit-hour-system/credit-administration-services/) to know how to convert your cGPA to its equivalent grade.
 - After graduating, you need to take 3 things from the faculty:
     - Your file.
-    - Temporary Graduation Certificate (in Arabic or English), required by employers.
-    - Final Graduation Certificate, honorary and is not submitted anywhere.
+    - Graduation Certificate aka Temporary Graduation Certificate (in Arabic or English), required by employers.
+    - Honorary Graduation Certificate aka Final Graduation Certificate, honorary and is not submitted anywhere.
+### Your file
+- Go to the Central Library in the main CU Campus to get "إخلاء طرف" after paying 33 EGP (doesn't include Fawry's fees) in Fawry [here](https://ckes.cu.edu.eg/) with username: `clib` and password `cl!b@#$)`, to stamp the receipt from Fawry.
+- Go to the CUFE Library in CUFE Campus (building 9, behind Architecture building) to get another "إخلاء طرف", you'll pay 2 EGP (not via Fawry.
+- Go to your program's secretary to sign the same paper from the last step.
+- Pay 156 EGP (doesn't include Fawry's fees) on Fawry on the normal [CKES portal](ckes.cu.edu.eg/foe.aspx) choose `شئون طلاب`, then choose `رسم سحب ملف - خريج (الساعات المعتمدة)`.
+- Go to the Student Affairs under building 20 not the normal Credit Hours Student Affairs with all the signed/stamped documents and the receipts to take your file.
+### Graduation Certificate and Grades Transcript
+Both are normally ready a month after graduation.
+- Go to the Graduate Affairs window behind the main administration building (the one in front of the obelisk), and ask for instructions to submit a request. They'll tell you where to get the request form. The request form costs 5 EGP. 
+- Graduation Certificate is needed employers, the Grades Transcript is rarely required but needed for M.Sc. registration.
+- Prices (without Fawry fees, as of 2023):
+	- Graduation Certificate: 80 EGP per copy.
+	- Grades Transcript: 105 EGP per copy.
+- You must have:
+	- One official 6x4 photo with white background.
+	- One black and white photocopy of your National ID.
+	- If you want an English Graduation Certificate, you need a photocopy of your passport which must be valid.
+	- Fawry receipt with a photocopy.
+After finishing all steps, they'll tell you when to come back to take your requested documents. The Graduation Certificate normally takes a week while the Grades Transcript takes 10 work days.
+The Honorary Graduation Certificate is already paid for with your tuition fees under extra fees, and typically ready after a year of graduation.
+
 - Notes for Military Training: 
     - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند from مكتب التجنيد in the governorate listed in your National ID.
     - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
-- For the Engineer's Union, check the required documents [here](eea.org.eg/PageDetails.aspx?ID=137). Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. Formula for reference:
-\$$1495 + (70\times(Current\ Year - 2023))\$$
-- For Mandatory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/).
-- The temporary Graduation Certificate is ready normally a month after graduation.
-- You will need to go receive your file, a بيان نجاح, and a temporary Graduation Certificate in whichever language you want.
-- Required fees from [CKES](http://ckes.cu.edu.eg/foe.aspx) (choose شئون طلاب):
-  - WIP.
-  - رسم سحب ملف - خريج (الساعات المعتمدة).
-  - طلب الأفادة (الساعات المعتمدة).
-  - Temporary Graduation Certificate, already paid for one with your normal tuition fees. Any new copy will require paying again.
-
+- For the Engineer's Union, check the required documents [here](http://eea.org.eg/PageDetails.aspx?ID=137). You can start these procedures only after the results are sent to the Engineer's Union from the Faculty, which takes 2 months or so. Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. You can also ask for a 3-year valid card for an extra 140 EGP. Formula for reference:
+\$$1495 + (70\times(Current\ Year - 2023)) + Optional\ 140\$$
+- For Mandatory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/). If you have to submit your documents before the Graduation Certificate is ready, you can request a "بيان نجاح" which is ready only after the University's Dean (not the Faculty) officially finalizes the grade results.
 # Evaluation    
 
 Mandatory and occurs in the last few weeks of the semster, if not done then you cannot access your account until the next semster, and won't be able to register your Spring courses in the first phase (in Fall semesters only).  
@@ -256,14 +287,17 @@ In my opinion, the evalutation is completely useless, unless you have cosntructi
 
 # Email
 
+Sadly they do not provide free Windows Education license anymore. You can sign up for [GitHub Student Developer Pack](https://education.github.com/pack) and get the benefits, but these mainly concern Computer Engineering students. Some major services might offer free trials or discounts for accounts with these domains or upon verifying your University ID.
+Note that AutoDesk (provides AutoCAD among other software) provides their products for free for university students [here](https://www.autodesk.com/education/edu-software/) , which should help Architecture and Civil programs, and requires your ID but not any of the following email domains.
 ## Faculty Email (@eng-st.cu.edu.eg)
 
-WIP
+Follow the instructions [here](#get-an-e-mail-account).
+Gives you a big storage limit on Google Drive with that account, but it is not unlimited. The whole organization (any accounts with the same domain) have a collective limit of 100 TB.
 
 ## University Email (@stud.cu.edu.eg)
 
-WIP
-
+Follow the instructions [here](https://cu.edu.eg/FAQ).
+Gives you 5 TB on OneDrive and free Office 365 for Education after signing in with your account [here](https://www.office.com/).
 # Personal Account (Student Information System - SIS):    
 
 Your personal account is very important, and very helpful.  
