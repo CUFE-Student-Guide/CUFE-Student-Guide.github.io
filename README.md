@@ -235,7 +235,7 @@ It consists of physical training and lectures. Upon completion, there is a writt
         - Exit Survey.
     - Fill these forms in the appropriate fields, some are to be filled by the student.
     - Go to your relevant program coordinator's office or secretary to leave your CHSF-024 form, and you will recieve it later, ask whoever you leave your form with when.
-    - For the English name field in استمارة طلب دخول امتحان نهائي 104, take care to copy it from your passport if any, if you don't have one then make sure to fill your name in the passport with the same name as the one you type down. It is needed to prove that the Graduation Certificate beglongs to you.
+    - For the English name field in استمارة طلب دخول امتحان نهائي 104, take care to copy it from your passport if any, if you don't have one then make sure to fill your name in the passport with the same name as the one you type down. It is needed to write your English name properly to prove that the Graduation Certificate belongs to you for future reference.
     - After fulfilling the previous steps, submit the following to the Student Affairs:
         - 4x6 personal photo with a **white background**.
         - CHSF-024.
@@ -248,18 +248,27 @@ It consists of physical training and lectures. Upon completion, there is a writt
 - To know your overall equivalent grade, check the [bylaws](http://eng.cu.edu.eg/en/credit-hour-system/credit-administration-services/) to know how to convert your cGPA to its equivalent grade.
 - After graduating, you need to take 3 things from the faculty:
     - Your file.
-    - Graduation Certificate aka Temporary Graduation Certificate (in Arabic or English), required by employers.
+    - Graduation Certificate also known as Temporary Graduation Certificate (in Arabic or English), required by employers.
     - Honorary Graduation Certificate aka Final Graduation Certificate, honorary and is not submitted anywhere.
-### Your file
+- Notes for Compulsory Military Service (eligible male students only):  
+    - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند from مكتب التجنيد in the governorate listed in your National ID.
+    - Some accept the بيان نجاح but some require the Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
+    - For Compulsory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/). If you have to submit your documents before the Graduation Certificate is ready, you can request a "بيان نجاح" which is ready only after the results are officially certified but takes one day to be ready instead of a week like the Graduation Certificate.
+
+- For the Engineer's Syndicate, check the required documents [here](http://eea.org.eg/PageDetails.aspx?ID=137). You can start these procedures only after the results are sent to the Egyptian Engineers Syndicate from the Faculty, which takes 1-2 months after the results are officially approved and certified. Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. You can also ask for a 3-year valid card for an extra 140 EGP. Formula for reference:
+\$$1495 + (70\times(Current\ Year - 2023)) + Optional\ 140\$$
+
+## Your file
 - Go to the Central Library in the main CU Campus to get "إخلاء طرف" after paying 33 EGP (doesn't include Fawry's fees) in Fawry [here](https://ckes.cu.edu.eg/) with username: `clib` and password `cl!b@#$)`, to stamp the receipt from Fawry.
 - Go to the CUFE Library in CUFE Campus (building 9, behind Architecture building) to get another "إخلاء طرف", you'll pay 2 EGP (not via Fawry.
 - Go to your program's secretary to sign the same paper from the last step.
 - Pay 156 EGP (doesn't include Fawry's fees) on Fawry on the normal [CKES portal](ckes.cu.edu.eg/foe.aspx) choose `شئون طلاب`, then choose `رسم سحب ملف - خريج (الساعات المعتمدة)`.
 - Go to the Student Affairs under building 20 not the normal Credit Hours Student Affairs with all the signed/stamped documents and the receipts to take your file.
-### Graduation Certificate and Grades Transcript
-Both are normally ready 2-3 months after graduation.
+
+## Graduation Certificate and Grades Transcript
+Both are normally ready 2-3 months after results announcement, due to time taken until the Cairo University's Dean (not the Faculty's Dean) officially approves and certifies the final results of the academic year.
 - Go to the Graduate Affairs window behind the main administration building (the one in front of the obelisk), and ask for instructions to submit a request. They'll tell you where to get the request form. The request form costs 5 EGP. 
-- Graduation Certificate is needed employers, the Grades Transcript is rarely required but needed for M.Sc. registration.
+- Graduation Certificate is needed by employers, the Grades Transcript is rarely required but needed for M.Sc. registration.
 - Prices (without Fawry fees, as of 2023):
 	- Graduation Certificate: 77 EGP per copy.
 	- Grades Transcript: 102 EGP per copy.
@@ -271,12 +280,6 @@ Both are normally ready 2-3 months after graduation.
 After finishing all steps, they'll tell you when to come back to take your requested documents. The Graduation Certificate normally takes a week while the Grades Transcript takes 10 work days.
 The Honorary Graduation Certificate is already paid for with your tuition fees under extra fees, and typically ready after a year of graduation.
 
-- Notes for Military Training (male students only):  
-    - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند from مكتب التجنيد in the governorate listed in your National ID.
-    - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
-- For the Engineer's Union, check the required documents [here](http://eea.org.eg/PageDetails.aspx?ID=137). You can start these procedures only after the results are sent to the Engineer's Union from the Faculty, which takes 2 months or so. Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. You can also ask for a 3-year valid card for an extra 140 EGP. Formula for reference:
-\$$1495 + (70\times(Current\ Year - 2023)) + Optional\ 140\$$
-- For Mandatory Military Service, check the exemption rules and required documents [here](https://tagned.mod.gov.eg/). If you have to submit your documents before the Graduation Certificate is ready, you can request a "بيان نجاح" which is ready only after the University's Dean (not the Faculty) officially finalizes the grade results.
 # Evaluation    
 
 Mandatory and occurs in the last few weeks of the semster, if not done then you cannot access your account until the next semster, and won't be able to register your Spring courses in the first phase (in Fall semesters only).  
@@ -302,75 +305,75 @@ Gives you 5 TB on OneDrive and free Office 365 for Education after signing in wi
 
 Your personal account is very important, and very helpful.  
 
-### Links  
+## Links  
 
 * [https://std.eng.cu.edu.eg](https://std.eng.cu.edu.eg)  
 
 * [https://chreg.eng.cu.edu.eg](https://chreg.eng.cu.edu.eg)  
 
-### Icons  
+## Icons  
 
-#### Registration  
+### Registration  
 
 * Register your courses (or group, freshman only).  
 
-#### My Time Table  
+### My Time Table  
 
 * Check your current time table.  
 
-#### Full Transcript  
+### Full Transcript  
 
 * check all of your grades so far, and you can print it to pdf or to a printer.  
 
-#### Profile  
+### Profile  
 
 * You can use it to check your program (after freshman year to check what program you got accepted into) and check your payment code.  
 
-#### Graduation Report  
+### Graduation Report  
 
 * Allows you to check the remaining courses you need to take with their credit hours, electives, and your grades in these courses.  
 
-#### Advising Helper  
+### Advising Helper  
 
 * Very useful for checking out your expectations for GPA since it allows you to select courses and set your expectance for their grade, then it shows you the calculated GPA and cGPA based on that.  
 
-#### GPA Transcript  
+### GPA Transcript  
 
 * Similar to Full Transcript, just a different layout.  
 
-#### Info And Warnings  
+### Info And Warnings  
 
 * Always opens by default when you open your account alongside "Update Personal Data". Tells you if you have any notice/alert for absence and if you were deprived of attending the final exam. In addition, it shows you any ultra important news.  
 
-#### Mail System  
+### Mail System  
 
 * Useless right now, similar to an internal email system.  
 
-#### Term classwork  
+### Term classwork  
 
 * Shows your midterm and classwork grades. Always make sure it is correct, especially before the final exam since this data is used in calculating your final grade for the course.  
 
-#### Registration Status Report  
+### Registration Status Report  
 
 * Shows status of any available course, whether it still accepts new registrants, its class size, count of students who are on the waiting list, remaining places (shown in negative), and its designated hall/lab.  
 
-#### Request withdrawal from a course  
+### Request withdrawal from a course  
 
 * Allows you to withdraw from any course, revise [Withdrawal Important Registration](#withdrawal-important-registration).  
 
-#### Edit profile  
+### Edit profile  
 
 * Useless, I think, use [Update Personal Data](#update-personal-data) instead.  
 
-#### In Class Attendance  
+### In Class Attendance  
 
 * I only used it once or twice throughout my academic study, maybe useless. The professor will tell you if you need to use it.  
 
-#### Private Interent Password:  
+### Private Interent Password:  
 
 * Useless, was supposed to give you limited access to the interent in Floor 7 of Architecture building.  
 
-#### Document Request  
+### Document Request  
 
 * Shows you a list of documents to choose from, and then asks you to pay for them and provides the needed link, which is [this one](http://ckes.cu.edu.eg/foe.aspx), never ever type it manually since you might go to another faculty's and your money will be wasted.  
 
@@ -378,41 +381,41 @@ Your personal account is very important, and very helpful.  
 
 * You need to present the receipt to the Credit Student Affairs to get your requested document.  
 
-#### IT Registration
+### IT Registration
 
 Used to register IT for your current semster or for summer semster. Revise [Industrial Training (IT) section](# Industrial Training (IT)).
 
-#### Get An E-mail Account
+### Get An E-mail Account
 
 Gives you a Google Workspace email, and allows you to select the email's username before creating it. Choose a professional format like `firstname.lastname`. For a list of benefits, revise [Faculty Email section](# Faculty Email (@eng-st.cu.edu.eg)).
 
-#### Special Registration Request
+### Special Registration Request
 
 Allows you to submit, view, and delete a special request. Revise [Special Registration section](#Special Registration)
 
-#### My Seating Number:
+### My Seating Number:
 
 Allows you to view your seating number for final exams.
 
-#### Coordinator Data
+### Coordinator Data
 
 Lists your program's coordinators and their contact info (emails), reach out to them based on the advice of your representative or for matters related to registration and special registration requests only.
 
-#### التواصل مع أستاذ المادة
+### التواصل مع أستاذ المادة
 
 New icon, rarely used. Good idea to check it in the first week, and if the professor tells you to regularly check it out, then do so.
 
-#### Update Personal Data
+### Update Personal Data
 * Must always be up-to-date and your picture has to follow their guidelines lined in the page, otherwise your account will be locked.
 
 # Credits  
 
-Revised by: [Ahmed Eldeeb](https://www.linkedin.com/in/ahmedaeldeeb/), Founder of Current CHS Representatives System, Representative of EEE, General Representative, Students Union (SU) Vice President, SU Advisor, Member of CU Students Union, and IEEE Advisor, Class of 2023.  
+Revised by: [Ahmed Eldeeb](https://www.linkedin.com/in/ahmedaeldeeb/), Founder of Current CHS Representatives System, Representative of EEE & General Representative, Class of 2023, Students Union (SU) Vice President (2021-2022), and IEEE CUSB Advisor.  
 
 Attendance tool: [Marawn Mostafa](https://www.linkedin.com/in/marwan8/) & [Khaled Mamdouh](https://www.linkedin.com/in/khalidmamdou7/), Representatives of CCE-C, Class of 2024.  
 
 All 2023 Representatives who helped my class and always made sure we were always kept up to date, love you guys! &#10084;
 
-Author: [Mostafa Abdelberr](https://github.com/mostafa-abdelbrr), Representative of CCE-C, Class of 2023.  
+Author: [Mostafa Abdelberr](https://github.com/mostafa-abdelbrr), Representative of CCE-C, Class of 2023, Co-Founder of Current CHS Representatives System.  
 
 <a href="https://github.com/mostafa-abdelbrr"><img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg"/></a>
