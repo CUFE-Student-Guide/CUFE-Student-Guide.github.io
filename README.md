@@ -257,12 +257,12 @@ It consists of physical training and lectures. Upon completion, there is a writt
 - Pay 156 EGP (doesn't include Fawry's fees) on Fawry on the normal [CKES portal](ckes.cu.edu.eg/foe.aspx) choose `شئون طلاب`, then choose `رسم سحب ملف - خريج (الساعات المعتمدة)`.
 - Go to the Student Affairs under building 20 not the normal Credit Hours Student Affairs with all the signed/stamped documents and the receipts to take your file.
 ### Graduation Certificate and Grades Transcript
-Both are normally ready a month after graduation.
+Both are normally ready 2-3 months after graduation.
 - Go to the Graduate Affairs window behind the main administration building (the one in front of the obelisk), and ask for instructions to submit a request. They'll tell you where to get the request form. The request form costs 5 EGP. 
 - Graduation Certificate is needed employers, the Grades Transcript is rarely required but needed for M.Sc. registration.
 - Prices (without Fawry fees, as of 2023):
-	- Graduation Certificate: 80 EGP per copy.
-	- Grades Transcript: 105 EGP per copy.
+	- Graduation Certificate: 77 EGP per copy.
+	- Grades Transcript: 102 EGP per copy.
 - You must have:
 	- One official 6x4 photo with white background.
 	- One black and white photocopy of your National ID.
@@ -271,7 +271,7 @@ Both are normally ready a month after graduation.
 After finishing all steps, they'll tell you when to come back to take your requested documents. The Graduation Certificate normally takes a week while the Grades Transcript takes 10 work days.
 The Honorary Graduation Certificate is already paid for with your tuition fees under extra fees, and typically ready after a year of graduation.
 
-- Notes for Military Training: 
+- Notes for Military Training (male students only):  
     - If you don't have استمارة 6 جند in your file, you will need to get بطاقة 7 جند بدل فاقد 6 جند from مكتب التجنيد in the governorate listed in your National ID.
     - Some accept the بيان نجاح but some require the Temporary Graduation Certificate, so have both when applying. Try to submit the بيان نجاح first because it is not used for anything else, **mostly**.
 - For the Engineer's Union, check the required documents [here](http://eea.org.eg/PageDetails.aspx?ID=137). You can start these procedures only after the results are sent to the Engineer's Union from the Faculty, which takes 2 months or so. Fees (as of class of 2023) were 1495 EGP, add 70 EGP for each year after that. You can also ask for a 3-year valid card for an extra 140 EGP. Formula for reference:
