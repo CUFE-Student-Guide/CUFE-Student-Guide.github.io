@@ -7,6 +7,7 @@ Hello and welcome to CUFE CHS, it might be heaven (uh not really for me, but who
 
 [Website version](https://CUFE-Student-Guide.github.io)  
 [Repository version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/README.md)  
+[PDF Version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/releases/download/latest/CUFE-Student-Guide.pdf) Note that internal section links do not work but external links work!
 
 It is ok to feel a bit lost at first, hopefully this can help you.  
 
