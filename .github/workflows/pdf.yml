@@ -49,10 +49,10 @@ jobs:
         wait-interval: 10
     - name: Create PDF from GitHub Pages
       run: |
-          mkdir -p ~/pdf/
+          mkdir -p pdf
           wkhtmltopdf https://cufe-student-guide.github.io/ ~/CUFE-Student-Guide.pdf
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
         tag_name: latest
-        files: ~/pdf/CUFE-Student-Guide.pdf
+        files: pdf/CUFE-Student-Guide.pdf
