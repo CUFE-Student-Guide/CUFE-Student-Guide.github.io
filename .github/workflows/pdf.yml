@@ -35,11 +35,11 @@ jobs:
         sudo dpkg -i ~/wkhtmltox/wkhtmltox.deb
     - name: Create PDF from GitHub Pages
       run: |
-          wkhtmltopdf https://cufe-student-guide.github.io/ CUFE-Student-Guide.pdf
+          wkhtmltopdf https://cufe-student-guide.github.io/ ~/CUFE-Student-Guide.pdf
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "latest"
         title: "CUFE Student Guide PDF"
         files: |
-          CUFE-Student-Guide.pdf
+          ~/CUFE-Student-Guide.pdf
