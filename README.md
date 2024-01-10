@@ -117,6 +117,8 @@ A lot of courses include a project, sometimes it is 5-10% of your coursework gra
 
 # Representatives    
 
+For regulations and in-depth information about the representatives system, check [this important PDF](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/CUFE%20CHS%20Reps%20System%20-%20Rules%20and%20Regulations.pdf).
+
 Those are students that volunteered to coordinate with the professors if the need arises, and notifies the students with any news the professor wants announced. They also handle changing any deadline or quiz date **if needed**, but do note that quiz date changes require an **unanimous** acceptance, if any students rejects it, then the proposal is automatically rejected.  
 
 In freshman year, you will be typically divided into groups with a fixed timetable, hence each group should have a representative under the supervision of an older class. Typically, each group has its own WhatsApp group, plus a "General Newsfeed" group on which any important news that is relevant to the whole class is sent, hence please never ever mute that one.  
