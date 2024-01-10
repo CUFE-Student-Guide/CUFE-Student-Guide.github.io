@@ -7,7 +7,7 @@ name: Create PDF
 on:
   push
 jobs:
-  wkhtmltox:
+  CreatePDF:
     runs-on: ubuntu-latest
     steps:
     - name: Cache wkthtmltopdf
@@ -42,4 +42,4 @@ jobs:
         automatic_release_tag: "latest"
         title: "CUFE Student Guide PDF"
         files: |
-          ~/CUFE-Student-Guide.pdf
+          CUFE-Student-Guide.pdf
