@@ -50,7 +50,7 @@ jobs:
     - name: Create PDF from GitHub Pages
       run: |
           mkdir -p pdf
-          wkhtmltopdf https://cufe-student-guide.github.io/ ~/CUFE-Student-Guide.pdf
+          wkhtmltopdf https://cufe-student-guide.github.io/ psdf/CUFE-Student-Guide.pdf
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
