@@ -42,4 +42,4 @@ jobs:
         automatic_release_tag: "latest"
         title: "CUFE Student Guide PDF"
         files: |
-          CUFE-Student-Guide.pdf
+          *.pdf
