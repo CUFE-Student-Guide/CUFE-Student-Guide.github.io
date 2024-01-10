@@ -33,13 +33,17 @@ jobs:
         sudo dpkg -i ~/wkhtmltox/xfonts-75dpi.deb
         sudo dpkg -i ~/wkhtmltox/xfonts-base.deb
         sudo dpkg -i ~/wkhtmltox/wkhtmltox.deb
+    - name: Wait for GitHub Pages deployment
+      uses: lewagon/wait-on-check-action@v1.3.1
+      with:
+        ref: ${{ github.ref }}
+        check-name: 'deploy'
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        wait-interval: 10
     - name: Create PDF from GitHub Pages
       run: |
           wkhtmltopdf https://cufe-student-guide.github.io/ ~/CUFE-Student-Guide.pdf
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - name: Release
+      uses: softprops/action-gh-release@v1
       with:
-        repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest"
-        title: "CUFE Student Guide PDF"
-        files: |
-          *.pdf
+        files: ~/CUFE-Student-Guide.pdf
