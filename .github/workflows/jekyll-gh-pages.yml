@@ -29,10 +29,10 @@ jobs:
 
       - name: Update last commit date
         run: |
-          echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" > last_commit.env
-          LAST_COMMIT_DATE=$(git log -1 --format=%cd)
+          echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)"
+          LAST_COMMIT_DATE=$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S')
           LAST_COMMIT_DATE_ESC=$(echo "$LAST_COMMIT_DATE" | sed 's/[\*\.&]/\\&/g')
-          sed -i "s|(Last_Updated)(.+)(-\w+\?)|1\$LAST_COMMIT_DATE_ESC\3|" README.md
+          sed -i -r "s|(Last_Updated-)(.+)(-\w+\?)|\1$LAST_COMMIT_DATE_ESC UTC\3|" README.md
         shell: bash
 
       - name: Commit changes
