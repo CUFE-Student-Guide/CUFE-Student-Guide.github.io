@@ -21,6 +21,27 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+update-last-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update last commit date
+        run: |
+          echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" > last_commit.env
+          LAST_COMMIT_DATE=$(git log -1 --format=%cd)
+          LAST_COMMIT_DATE_ESC=$(echo "$LAST_COMMIT_DATE" | sed 's/[\*\.&]/\\&/g')
+          sed -i "s|(Last_Updated)(.+)(-\w+\?)|1\$LAST_COMMIT_DATE_ESC\3|" README.md
+        shell: bash
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_commit.env
+          git commit -m "Update last commit date [skip ci]"
+          git push
   # Build job
   build:
     runs-on: ubuntu-latest
