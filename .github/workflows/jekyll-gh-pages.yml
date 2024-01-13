@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Build, Deploy, and Create PDF Pipeline
 
 on:
   # Runs on pushes targeting the default branch
@@ -21,27 +21,33 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Build job
-  build:
+  update-last-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        # Update last updated badge before building page.
+      - name: Checkout code
+        uses: actions/checkout@v2
       - name: Update last commit date
         run: |
-          echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)"
-          LAST_COMMIT_DATE=$(git log -1 --format=%cd --date=format:'%Y--%m--%d %H:%M:%S')
+          echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" > last_commit.env
+          LAST_COMMIT_DATE=$(git log -1 --format=%cd)
           LAST_COMMIT_DATE_ESC=$(echo "$LAST_COMMIT_DATE" | sed 's/[\*\.&]/\\&/g')
-          sed -i -r "s|(Last_Updated-)(.+)(-\w+\?)|\1$LAST_COMMIT_DATE_ESC UTC\3|" README.md
+          sed -i "s|(Last_Updated)(.+)(-\w+\?)|\1$LAST_COMMIT_DATE_ESC\3|" README.md
         shell: bash
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add last_commit.env
           git commit -m "Update last commit date [skip ci]"
           git push
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    needs: update-latest-commit
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        # Update last updated badge before building page.
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
@@ -51,7 +57,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-
   # Deployment job
   deploy:
     environment:
@@ -63,3 +68,40 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+  # Create PDF of deployed page.
+  CreatePDF:
+    needs: [update-latest-commit, build, deploy]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Cache wkthtmltopdf
+      uses: actions/cache@v3.3.2
+      id: cache-wkhtmltopdf
+      with:
+        path: "~/wkhtmltox/"
+        key: ${{ runner.os }}-wkhtmltopdf-${{ hashFiles('**/*.deb') }}
+  
+    - name: Download wkthtmltopdf & dependencies
+      if: steps.cache-wkhtmltopdf.outputs.cache-hit != 'true'
+      run: |
+        mkdir ~/wkhtmltox
+        wget -O ~/wkhtmltox/wkhtmltox.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
+        wget -O ~/wkhtmltox/xfonts-encodings.deb http://archive.ubuntu.com/ubuntu/pool/main/x/xfonts-encodings/xfonts-encodings_1.0.4-2_all.deb
+        wget -O ~/wkhtmltox/xfonts-utils.deb http://archive.ubuntu.com/ubuntu/pool/main/x/xfonts-utils/xfonts-utils_7.7+6_amd64.deb
+        wget -O ~/wkhtmltox/xfonts-75dpi.deb http://archive.ubuntu.com/ubuntu/pool/universe/x/xfonts-75dpi/xfonts-75dpi_1.0.4+nmu1_all.deb
+        wget -O ~/wkhtmltox/xfonts-base.deb http://archive.ubuntu.com/ubuntu/pool/main/x/xfonts-base/xfonts-base_1.0.4+nmu1_all.deb
+    - name: Install wkhtmltopdf
+      run: |
+        sudo dpkg -i ~/wkhtmltox/xfonts-encodings.deb
+        sudo dpkg -i ~/wkhtmltox/xfonts-utils.deb
+        sudo dpkg -i ~/wkhtmltox/xfonts-75dpi.deb
+        sudo dpkg -i ~/wkhtmltox/xfonts-base.deb
+        sudo dpkg -i ~/wkhtmltox/wkhtmltox.deb
+    - name: Create PDF from GitHub Pages
+      run: |
+          mkdir -p pdf
+          wkhtmltopdf https://cufe-student-guide.github.io/ pdf/CUFE-Student-Guide.pdf
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: latest
+        files: pdf/CUFE-Student-Guide.pdf
