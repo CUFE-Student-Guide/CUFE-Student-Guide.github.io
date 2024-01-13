@@ -262,6 +262,7 @@ It consists of physical training and lectures. Upon completion, there is a writt
 \$$1495 + (70\times(Current\ Year - 2023)) + Optional\ 140\$$
 
 ## Your file
+- Can be requested 1 week after results announcement and has to be retrieved before requesting a graduation certificate.
 - Go to the Central Library in the main CU Campus to get "إخلاء طرف" after paying 33 EGP (doesn't include Fawry's fees) in Fawry [here](https://ckes.cu.edu.eg/) with username: `clib` and password `cl!b@#$)`, to stamp the receipt from Fawry.
 - Go to the CUFE Library in CUFE Campus (building 9, behind Architecture building) to get another "إخلاء طرف", you'll pay 2 EGP (not via Fawry.
 - Go to your program's secretary to sign the same paper from the last step.
@@ -269,7 +270,8 @@ It consists of physical training and lectures. Upon completion, there is a writt
 - Go to the Student Affairs under building 20 not the normal Credit Hours Student Affairs with all the signed/stamped documents and the receipts to take your file.
 
 ## Graduation Certificate and Grades Transcript
-Both are normally ready 2-3 months after results announcement, due to time taken until the Cairo University's Dean (not the Faculty's Dean) officially approves and certifies the final results of the academic year.
+**You have to retrieve your file before requesting any.**
+The Graduation Certificate and Grades Transcript are normally ready 2-3 months after results announcement, due to time taken until the Cairo University's Dean (not the Faculty's Dean) officially approves and certifies the final results of the academic year.
 - Go to the Graduate Affairs window behind the main administration building (the one in front of the obelisk), and ask for instructions to submit a request. They'll tell you where to get the request form. The request form costs 5 EGP. 
 - Graduation Certificate is needed by employers, the Grades Transcript is rarely required but needed for M.Sc. registration.
 - Prices (without Fawry fees, as of 2023):
