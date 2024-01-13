@@ -424,4 +424,4 @@ All 2023 Representatives who helped my class and always made sure we were always
 Author: [Mostafa Abdelberr](https://github.com/mostafa-abdelbrr), Representative of CCE-C, Class of 2023, Co-Founder of Current CHS Representatives System.  
 
 <a href="https://github.com/mostafa-abdelbrr"><img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg"/></a>
-<img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024--1--13-green?style=for-the-badge">
+<img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024-01-13 19:10:58 UTC-green?style=for-the-badge">
