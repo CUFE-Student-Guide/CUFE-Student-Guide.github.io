@@ -12,7 +12,7 @@ Note that internal section links do not work in the PDF but external links work!
 
 It is ok to feel a bit lost at first, hopefully this can help you.
 
-<img alt="Visitor count badge" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/CUFE-Student-Guide%2FCUFE-Student-Guide.github.io&countColor=%2397ca00"> <img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024--01--13 19:15:25 UTC-green?style=for-the-badge">
+<img alt="Visitor count badge" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/CUFE-Student-Guide%2FCUFE-Student-Guide.github.io&countColor=%2397ca00"> <img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024--01--13 21:15:38 UTC-green?style=for-the-badge">
 # Important Resources:  
 
 * Drive link.  
