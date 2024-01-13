@@ -7,10 +7,12 @@ Hello and welcome to CUFE CHS, it might be heaven (uh not really for me, but who
 
 [Website version](https://CUFE-Student-Guide.github.io)  
 [Repository version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/blob/master/README.md)  
-[PDF Version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/releases/download/latest/CUFE-Student-Guide.pdf) Note that internal section links do not work but external links work!
+[PDF Version](https://github.com/CUFE-Student-Guide/CUFE-Student-Guide.github.io/releases/download/latest/CUFE-Student-Guide.pdf)  
+Note that internal section links do not work in the PDF but external links work!
 
-It is ok to feel a bit lost at first, hopefully this can help you.  
+It is ok to feel a bit lost at first, hopefully this can help you.
 
+<img alt="Visitor count badge" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/CUFE-Student-Guide%2FCUFE-Student-Guide.github.io&countColor=%2397ca00"> <img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024--01--13 19:15:25 UTC-green?style=for-the-badge">
 # Important Resources:  
 
 * Drive link.  
@@ -423,5 +425,4 @@ All 2023 Representatives who helped my class and always made sure we were always
 
 Author: [Mostafa Abdelberr](https://github.com/mostafa-abdelbrr), Representative of CCE-C, Class of 2023, Co-Founder of Current CHS Representatives System.  
 
-<a href="https://github.com/mostafa-abdelbrr"><img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg"/></a>
-<img alt="Last update badge" src="https://img.shields.io/badge/Last_Updated-2024--01--13 19:15:25 UTC-green?style=for-the-badge">
+<a href="https://github.com/mostafa-abdelbrr"><img src="https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/PersonalLogo.svg"/></a>  
